@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BEENY-47
+- 👋 Hi, I’m BENN_Y
 - 👀 I’m interested in learning Javascipt and others languages 
 - 🌱 I’m currently learning electronic 
 - 📫 How to reach me (twitter , mail ) 
